@@ -42,6 +42,11 @@
     width: 100%;
     height: auto;
     margin-top: 50px;
+    animation: changeImage 6s infinite; /* 6s for the image change */
+}
+
+@keyframes imageChnage {
+
 }
 
 h1 {
